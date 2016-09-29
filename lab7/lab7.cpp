@@ -21,7 +21,6 @@ int main(){
     chorus("5", "monkeys");
     
     cout << endl;
-    cout << endl;
     
     chorus("10", "wolves");
 }
